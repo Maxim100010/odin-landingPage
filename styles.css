@@ -58,6 +58,12 @@ button {
     border-radius: 5px;
     width: 500px;
     height: 250px;
+    background-color: gray;
+}
+
+#img-placeholder-s2 p {
+    color: white;
+    text-align: center;
 }
 
 #img-placeholder-s3 {
